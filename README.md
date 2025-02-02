@@ -31,7 +31,7 @@
 ## Circuit Diagram
 Refer to the image below for wiring and port connections:
 
-![Setup](![Screenshot 2024-06-01 000249](https://github.com/user-attachments/assets/c31ed6db-4500-480f-8630-126adea3d1bb))
+[Screenshot 2024-06-01 000249](https://github.com/user-attachments/assets/c31ed6db-4500-480f-8630-126adea3d1bb)
 
 ## Installation and Usage
 1. Flash the provided Assembly code onto the AT89C52 microcontroller.
