@@ -1,5 +1,3 @@
-# MCU-8051-GAME
-
 # Tower of Power
 
 ## Overview
@@ -31,7 +29,9 @@
 - The system uses **MCU 8051 IDE** for simulation and development.
 
 ## Circuit Diagram
-Refer to the `circuit_diagram.png` file for wiring and port connections.
+Refer to the image below for wiring and port connections:
+
+![Setup](Screenshot%202024-06-01%20000249.png)
 
 ## Installation and Usage
 1. Flash the provided Assembly code onto the AT89C52 microcontroller.
